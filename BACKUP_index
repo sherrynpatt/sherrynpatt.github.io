@@ -1,7 +1,130 @@
-e<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub ergergPages.</p>
+
+<head>
+<title>Sherryn Pattarawuttiwong | LIGHTING | LOOKDEV | GROOM </title>
+  <meta name="description" content="View Sherryn Pattarawuttiwong's VFX work at sherrynpatt.com"/>
+  <meta name="keywords" content="vfx, cg, lighting, lookdev, groom">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="canonical" href="https://www.sherrynpatt.com"/>
+  <meta property="og:title" content="SherrynPatt | Lighting | Lookdev | Groom"/>
+  <meta property="og:description" content="View Sherryn Pattarawuttiwong's VFX work at sherrynpatt.com"/>
+  <meta property="og:url" content="https://www.sherrynpatt.com"/>
+  <meta property="og:site_name" content="sherrynpatt"/>
+  <meta property="og:type" content="website"/>
+  <script type="application/ld+json">{"@context":"https://schema.org/","@type":"WebSite","name":"sherrynpatt","url":"https://www.sherrynpatt.com"}</script>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="SherrynPatt | Lighting | Lookdev | Groom"/>
+  <meta name="twitter:description" content="View Sherryn Pattarawuttiwong's VFX work at sherrynpatt.com"/>
+</head>
+
+
+<body 
+style="
+background-color: black; 
+color: white;
+margin: 41px 238.4px;
+">
+
+<div>
+<h1 style="
+font-family:  helvetica-w01-light,helvetica-w02-light,sans-serif; 
+font-size: 27.6px;
+font-weight: lighter;
+<!-- letter-spacing: 1.4px; -->
+margin-top: 41px;
+margin-right: 0px;
+margin-bottom: -13px;
+margin-left: calc(50% - 490px);
+">
+sherryn pattarawuttiwong 
+</h1>
+</div>
+
+
+<div>
+<h6 style="
+font-family: helvetica-w01-light,helvetica-w02-light,sans-serif;
+font-size: 19.6px;
+font-weight: lighter;
+line-height: 30px;
+letter-spacing: -1.1px;
+margin-top: 13px;
+margin-right: 0px;
+margin-bottom: 20px;
+margin-left: calc(50% - 490px);
+color: lightgrey;
+">
+LIGHTING &nbsp; | &nbsp; LOOK DEV &nbsp; | &nbsp; GROOM
+</h6>
+</div>
+
+<div 
+style="
+font-family: eb garamond, sans-serif;
+font-size: 12px;
+font-weight: 1;
+position: relative;
+top: -10px;
+">
+
+<style>
+a:link {
+  color: grey;
+  text-decoration: none;
+}
+a:visited {
+  color: grey;
+  text-decoration: none;
+}
+</style>
+
+<div>
+<a href="mailto:sherrynpatt@gmail.com?subject=Opportunity" target="_blank"> sherrynpatt@gmail.com </a>
+
+<div style="
+position: relative;
+left: 140px;
+top: -14px;
+">
+<a href="https://www.linkedin.com/in/sherrynpatt/" target="_blank"> linkedin.com/sherrynpatt </a> 
+
+<div style="
+position: relative;
+left: 140px;
+top: -14px;
+">
+<a href="https://www.imdb.com/name/nm10765256/?ref_=ext_shr_lnk" target="_blank"> IMDb </a> 
+
+</div>
+</div>
+
+
+<div style="
+padding:56.25% 0 0 0;
+position:relative;
+display: block;
+margin: auto;
+">
+<iframe src="https://player.vimeo.com/video/261765416?
+autoplay=false&amp;
+muted=false&amp;
+loop=true&amp;
+byline=false&amp;
+portrait=false&amp;
+title=false" 
+style="
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;" 
+frameborder="0" 
+allow="autoplay; fullscreen; picture-in-picture" 
+allowfullscreen>
+</iframe>
+</div>
+
+
 </body>
 </html>
